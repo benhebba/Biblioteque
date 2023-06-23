@@ -16364,7 +16364,7 @@
   end
   object DataSource1: TDataSource
     DataSet = DataModule1.ADOTAdhérent
-    Left = 8
-    Top = 8
+    Left = 64
+    Top = 24
   end
 end

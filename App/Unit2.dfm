@@ -1,7 +1,7 @@
 object Form2: TForm2
   Left = 0
   Top = 0
-  Caption = 'Form2'
+  Caption = 'log in'
   ClientHeight = 824
   ClientWidth = 1112
   Color = clBtnFace
@@ -11741,8 +11741,8 @@ object Form2: TForm2
       7E3AA4B779FD8C138966760A73A77EE45C525D647E6DE5EBFF076D8A9F899F99
       03080000000049454E44AE426082}
     Stretch = True
-    ExplicitWidth = 679
-    ExplicitHeight = 397
+    ExplicitLeft = 8
+    ExplicitTop = -32
   end
   object Label1: TLabel
     Left = 688

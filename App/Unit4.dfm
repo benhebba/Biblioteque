@@ -1,7 +1,7 @@
 object Form4: TForm4
   Left = 0
   Top = 0
-  Caption = 'Form4'
+  Caption = 'Liste des Adh'#233'rents'
   ClientHeight = 764
   ClientWidth = 1088
   Color = clBtnFace
@@ -28925,7 +28925,6 @@ object Form4: TForm4
       item
         Expanded = False
         FieldName = 'id_adh'#233'rent'
-        Width = 71
         Visible = True
       end
       item
@@ -29085,7 +29084,6 @@ object Form4: TForm4
       'Prenom')
   end
   object ADOQuery1: TADOQuery
-    Active = True
     Connection = DataModule1.ADOConnection1
     CursorType = ctStatic
     Filtered = True

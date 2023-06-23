@@ -2,7 +2,7 @@ object Form5: TForm5
   Left = 0
   Top = 0
   Caption = 'Form5'
-  ClientHeight = 829
+  ClientHeight = 827
   ClientWidth = 1120
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -16,7 +16,7 @@ object Form5: TForm5
     Left = 0
     Top = 0
     Width = 1120
-    Height = 829
+    Height = 827
     Align = alClient
     AutoSize = True
     Picture.Data = {

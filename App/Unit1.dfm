@@ -6,8 +6,10 @@
     Connected = True
     ConnectionString = 
       'Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security In' +
-      'fo=False;Initial Catalog=GestionBiblioth'#232'que;Data Source=DESKTOP' +
-      '\MOHBENH'
+      'fo=False;Initial Catalog=GestionBiblioth'#232'que;Data Source=YACINE-' +
+      'PC;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4' +
+      '096;Workstation ID=YACINE-PC;Use Encryption for Data=False;Tag w' +
+      'ith column collation when possible=False'
     LoginPrompt = False
     Provider = 'SQLOLEDB.1'
     Left = 56
